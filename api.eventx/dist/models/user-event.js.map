@@ -1,0 +1,1 @@
+{"version":3,"file":"user-event.js","sourceRoot":"","sources":["../../src/models/user-event.ts"],"names":[],"mappings":";;;;;AAAA,sDAAgC;AAOhC,IAAM,eAAe,GAAG,IAAI,kBAAQ,CAAC,MAAM,CAAC;IAC1C,SAAS,EAAE,MAAM;IACjB,QAAQ,EAAE,MAAM;CACjB,CAAC,CAAC;AAEH,IAAM,cAAc,GAAG,kBAAQ,CAAC,KAAK,CAAY,WAAW,EAAE,eAAe,CAAC,CAAC;AAEtE,wCAAc"}
